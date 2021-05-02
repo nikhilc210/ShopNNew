@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "437296619625",
+    "firebase_url": "https://shopn-ltd.firebaseio.com",
+    "project_id": "shopn-ltd",
+    "storage_bucket": "shopn-ltd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437296619625:android:36610ce03fcb9217d382f8",
+        "android_client_info": {
+          "package_name": "com.shopn.business.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437296619625-4j8fvcet196du8ccanmtlh6n40hdvt2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopn.business.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "437296619625-ccfvebpr3afoc26nmc1jdn34kkr6jvs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopn.business.app",
+            "certificate_hash": "d76f419f81baab41ffd837f5c3805fea4f5f87b4"
+          }
+        },
+        {
+          "client_id": "437296619625-i4q8c65n2tg5es4ajqg7d1vgl15c6f19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneHYuqUREvRwUu1SlfknHo06SppM1RI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437296619625-i4q8c65n2tg5es4ajqg7d1vgl15c6f19.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437296619625-8052ljmjk6inotca1lloieu4af7s8fh9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itechanalogy.shopn.business.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437296619625:android:eaf2c44d4be5003dd382f8",
+        "android_client_info": {
+          "package_name": "com.shopn.user.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437296619625-2ef2r0jjjj8b12q15nnlk3bbr4o7oacg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopn.user.app",
+            "certificate_hash": "d76f419f81baab41ffd837f5c3805fea4f5f87b4"
+          }
+        },
+        {
+          "client_id": "437296619625-57j8pmq627c40hkbb33re14bgrdtao7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopn.user.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "437296619625-i4q8c65n2tg5es4ajqg7d1vgl15c6f19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneHYuqUREvRwUu1SlfknHo06SppM1RI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437296619625-i4q8c65n2tg5es4ajqg7d1vgl15c6f19.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437296619625-8052ljmjk6inotca1lloieu4af7s8fh9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itechanalogy.shopn.business.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

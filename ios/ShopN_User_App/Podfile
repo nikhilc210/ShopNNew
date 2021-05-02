@@ -1,0 +1,9 @@
+# Use iOS 9 and above
+platform :ios, '9.0'
+
+# Specify Workspace
+workspace 'ShopN_User_App'
+
+target 'example' do
+    pod 'Stripe', '~> 14.0.0'
+end

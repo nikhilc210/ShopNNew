@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>437296619625-poe8ghvjnqosrbm2pbh1edf2bj41j4g1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.437296619625-poe8ghvjnqosrbm2pbh1edf2bj41j4g1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>437296619625-0hkab9pmvfv0o0t5sg0329k2jdgl4kl9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4b7mzZUTSLRJcEmASaeKZENgm3xJxYQ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>437296619625</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shopn.user.app</string>
+	<key>PROJECT_ID</key>
+	<string>shopn-ltd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shopn-ltd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:437296619625:ios:fa2a1f69c7a85086d382f8</string>
+	<key>DATABASE_URL</key>
+	<string>https://shopn-ltd.firebaseio.com</string>
+</dict>
+</plist>
